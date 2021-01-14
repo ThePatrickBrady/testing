@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: petstore
-  description: Petstore
+  name: petstore2
+  description: Petstore2
   annotations:
     jira/project-key: SH
 spec:
